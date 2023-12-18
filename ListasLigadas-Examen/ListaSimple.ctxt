@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListaSimple
+comment1.params=dato
+comment1.target=boolean\ insertaPrimerNodo(int)
+comment2.params=dato
+comment2.target=void\ insertarAntesPrimero(int)
+comment3.params=dato
+comment3.target=void\ insertarAlFinal(int)
+comment4.params=
+comment4.target=void\ imprimirLista()
+comment5.params=
+comment5.target=void\ mostrarSigteSigte()
+comment6.params=
+comment6.target=void\ eliminarPrimero()
+comment7.params=
+comment7.target=void\ eliminarUltimo()
+comment8.params=
+comment8.target=void\ ejercicio3()
+comment9.params=dato
+comment9.target=void\ insertar95(int)
+numComments=10
